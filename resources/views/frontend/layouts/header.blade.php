@@ -107,7 +107,10 @@
                                 <li class="dropdown">
                                     <a class="dropdown-toggle" data-toggle='dropdown' href="#">News & Reviews <span class="fa fa-caret-down"></span></a>
                                     <ul class="dropdown-menu h-nav">
-                                        <li><a href="blog.html">Blog </a></li>
+                                        <li><a href="blog.html">Letest News </a></li>
+                                        <li><a href="blog.html">Articals </a></li>
+                                        <li><a href="blog.html">Expert Reviews </a></li>
+                                        <li><a href="blog.html">Video</a></li>
                                     </ul>
                                 </li>
                             </ul>
