@@ -67,15 +67,15 @@
                                 <li class="dropdown">
                                     <a class="dropdown-toggle" data-toggle='dropdown' href="home.html">Cars <span class="fa fa-caret-down"></span></a>
                                     <ul class="dropdown-menu h-nav">
-                                        <li><a href="blog.html">New Car </a></li>
-                                        <li><a href="blog.html">Popular Car </a></li>
-                                        <li><a href="blog.html">Upcoming Car </a></li>
-                                        <li><a href="blog.html">Newly Launched Car </a></li>
-                                        <li><a href="blog.html">Electric Car </a></li>
+                                        <li><a href="blog.html">New Cars</a></li>
+                                        <li><a href="blog.html">Popular Cars </a></li>
+                                        <li><a href="blog.html">Upcoming Cars </a></li>
+                                        <li><a href="blog.html">Newly Launched Cars </a></li>
+                                        <li><a href="blog.html">Electric Cars</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a class="dropdown-toggle" data-toggle='dropdown' href="home.html">Bikes <span class="fa fa-caret-down"></span></a>
+                                    <a class="dropdown-toggle"  href="home1.html">Bikes <span class="fa fa-caret-down"></span></a>
                                     <ul class="dropdown-menu h-nav">
                                         <li><a href="blog.html">New Bikes </a></li>
                                         <li><a href="blog.html">Popular Bikes </a></li>
@@ -98,8 +98,8 @@
                                 <li class="dropdown">
                                     <a class="dropdown-toggle" data-toggle='dropdown' href="home.html">Electric <span class="fa fa-caret-down"></span></a>
                                     <ul class="dropdown-menu h-nav">
-                                        <li><a href="blog.html">Electric Car </a></li>
-                                        <li><a href="blog.html">Electric bike </a></li>
+                                        <li><a href="blog.html">Electric Cars </a></li>
+                                        <li><a href="blog.html">Electric bikes </a></li>
                                         <li><a href="blog.html">Electric Scooters </a></li>
                                   </ul>
                                 </li>
@@ -110,7 +110,7 @@
                                         <li><a href="blog.html">Letest News </a></li>
                                         <li><a href="blog.html">Articals </a></li>
                                         <li><a href="blog.html">Expert Reviews </a></li>
-                                        <li><a href="blog.html">Video</a></li>
+                                        <li><a href="blog.html">Videos</a></li>
                                     </ul>
                                 </li>
                             </ul>
