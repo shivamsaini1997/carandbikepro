@@ -35,11 +35,11 @@ body {
 }
 
 .s-title {
-    font: 700 18px 'Open Sans', sans-serif;
-    margin: 0 0 50px 0;
+    font: 700 22px 'Open Sans', sans-serif;
+    margin: 0 0 23px 0;
     padding: 0 15px;
-    border-left: 4px solid #f76d2b;
-    border-right: 4px solid #f76d2b;
+    border-left: 4px solid #228dcb;
+    border-right: 4px solid #228dcb;
     text-transform: uppercase;
     display: inline-block;
     letter-spacing: 1px;
@@ -49,7 +49,7 @@ body {
     font: 700 14px 'Open Sans', sans-serif;
     text-transform: uppercase;
     padding-left: 12px;
-    border-left: 4px solid #f76d2b;
+    border-left: 4px solid #228dcb;
     margin-bottom: 25px;
 }
 
@@ -225,7 +225,7 @@ body {
     margin: 0;
     color: #212121;
     padding-left: 10px;
-    border-left: 4px solid #f76d2b;
+    border-left: 4px solid #228dcb;
     text-transform: none;
     line-height: 1.2;
 }
@@ -433,7 +433,7 @@ label.s-submitCheck {
     -webkit-animation: spin 1s infinite linear;
     animation: spin 1s infinite linear;
     border: 3px solid transparent;
-    border-top-color: #f76d2b;
+    border-top-color: #228dcb;
 }
 
 @-webkit-keyframes spin {
@@ -496,4 +496,11 @@ label.s-submitCheck {
     margin: 0;
     top: auto;
     width: 92%;
+}
+nav.b-topBar__nav ul li a ,.b-topBar__lang .dropdown a{
+    font-weight: 600;
+}
+.b-slider img {
+    height: 460px !important;
+    object-fit: cover;
 }

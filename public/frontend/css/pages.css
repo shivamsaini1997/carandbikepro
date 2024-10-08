@@ -36,7 +36,7 @@
     margin: 0;
     font: 700 22px 'Open Sans',sans-serif;
     padding-left: 15px;
-    border-left:4px solid #f76d2b;
+    border-left:4px solid #228dcb;
 }
 
 .b-best__info h6{
@@ -98,7 +98,7 @@
     right:0;
     top:0;
     display: inline-block;
-    border-bottom: 46px solid #f76d2b;
+    border-bottom: 46px solid #228dcb;
 	border-left: 28px solid transparent;
 	height: 0;
 	width: 60px;

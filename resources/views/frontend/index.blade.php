@@ -6,36 +6,15 @@
         <div class="carousel-inner">
             <div class="item active">
                 <img src="{{url('frontend/media/main-slider/1.jpg')}}" alt="sliderImg" />
-                <div class="container">
-                    <div class="carousel-caption b-slider__info">
-                        <h3>Find your dream</h3>
-                        <h2>Lamborghini Aventador</h2>
-                        <p>Model 2015 <span>$184,900</span></p>
-                        <a class="btn m-btn" href="#">see details<span class="fa fa-angle-right"></span></a>
-                    </div>
-                </div>
+                
             </div>
             <div class="item">
                 <img src="{{url('frontend/media/main-slider/2.jpg')}}" alt="sliderImg" />
-                <div class="container">
-                    <div class="carousel-caption b-slider__info">
-                        <h3>Find your dream</h3>
-                        <h2>Lamborghini Aventador</h2>
-                        <p>Model 2015 <span>$184,900</span></p>
-                        <a class="btn m-btn" href="#">see details<span class="fa fa-angle-right"></span></a>
-                    </div>
-                </div>
+                
             </div>
             <div class="item">
                 <img src="{{url('frontend/media/main-slider/3.jpg')}}" alt="sliderImg" />
-                <div class="container">
-                    <div class="carousel-caption b-slider__info">
-                        <h3>Find your dream</h3>
-                        <h2>Lamborghini Aventador</h2>
-                        <p>Model 2015 <span>$184,900</span></p>
-                        <a class="btn m-btn" href="#">see details<span class="fa fa-angle-right"></span></a>
-                    </div>
-                </div>
+                
             </div>
         </div>
         <a class="carousel-control right" href="#carousel" data-slide="next">
@@ -386,7 +365,7 @@
 
 <section class="b-featured">
     <div class="container">
-        <h2 class="s-title wow zoomInUp" data-wow-delay="0.3s">Featured Vehicles</h2>
+        <h2 class="s-title wow zoomInUp" data-wow-delay="0.3s">Latest Cars </h2>
         <div id="carousel-small" class="owl-carousel enable-owl-carousel" data-items="4" data-navigation="true" data-auto-play="true" data-stop-on-hover="true" data-items-desktop="4" data-items-desktop-small="4" data-items-tablet="3" data-items-tablet-small="2">
             <div>
                 <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
@@ -407,6 +386,7 @@
                         <a href="#">Orange</a>
                         <a href="#">Petrol</a>
                     </div>
+                    <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
                 </div>
             </div>
             <div>
@@ -427,7 +407,9 @@
                         <a href="#">Orange</a>
                         <a href="#">Petrol</a>
                     </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
                 </div>
+
             </div>
             <div>
                 <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
@@ -448,6 +430,7 @@
                         <a href="#">Orange</a>
                         <a href="#">Petrol</a>
                     </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
                 </div>
             </div>
             <div>
@@ -468,6 +451,7 @@
                         <a href="#">Orange</a>
                         <a href="#">Petrol</a>
                     </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
                 </div>
             </div>
             <div>
@@ -489,6 +473,64 @@
                         <a href="#">Orange</a>
                         <a href="#">Petrol</a>
                     </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $184,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            
+        </div>
+        <div>
+            <div>
+                <a href="#" class="btn m-btn btn-primarynew btn">View All Latest Cars</a>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="b-featured pt-5">
+    <div class="container">
+        <h2 class="s-title wow zoomInUp" data-wow-delay="0.3s">Popular Cars </h2>
+        <div id="carousel-small" class="owl-carousel enable-owl-carousel" data-items="4" data-navigation="true" data-auto-play="true" data-stop-on-hover="true" data-items-desktop="4" data-items-desktop-small="4" data-items-tablet="3" data-items-tablet-small="2">
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $184,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                    <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
                 </div>
             </div>
             <div>
@@ -509,7 +551,9 @@
                         <a href="#">Orange</a>
                         <a href="#">Petrol</a>
                     </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
                 </div>
+
             </div>
             <div>
                 <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
@@ -530,6 +574,7 @@
                         <a href="#">Orange</a>
                         <a href="#">Petrol</a>
                     </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
                 </div>
             </div>
             <div>
@@ -550,9 +595,200 @@
                         <a href="#">Orange</a>
                         <a href="#">Petrol</a>
                     </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
                 </div>
             </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $184,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $184,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            
         </div>
+            <div>
+                <a href="#" class="btn m-btn btn-primarynew btn">View All Popular Cars</a>
+            </div>
+    </div>
+</section>
+<section class="b-featured pt-5">
+    <div class="container">
+        <h2 class="s-title wow zoomInUp" data-wow-delay="0.3s">Upcoming Cars </h2>
+        <div id="carousel-small" class="owl-carousel enable-owl-carousel" data-items="4" data-navigation="true" data-auto-play="true" data-stop-on-hover="true" data-items-desktop="4" data-items-desktop-small="4" data-items-tablet="3" data-items-tablet-small="2">
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $184,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                    <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/audi.jpg" alt="audi" />
+                    </a>
+                    <div class="b-featured__item-price">
+                        $95,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">AUDI R8 SPYDER V-8</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>0.00 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2015</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/aston.jpg" alt="aston" />
+                        <span class="m-leasing">LEASING AVAILABLE</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $101,025
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">ASTON MARTIN VANTAGE</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/jaguar.jpg" alt="jaguar" />
+                    </a>
+                    <div class="b-featured__item-price">
+                        $130,825
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">JAGUAR F-TYPE R</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>0.00</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2015</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $184,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $184,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            
+        </div>
+         <div>
+                <a href="#" class="btn m-btn btn-primarynew btn">View All Upcoming Cars</a>
+            </div>
     </div>
 </section>
 <!--b-featured-->
@@ -640,26 +876,430 @@
     </div>
 </section>
 <!--b-welcome-->
+<section class="b-featured pt-5">
+    <div class="container">
+        <h2 class="s-title wow zoomInUp" data-wow-delay="0.3s">Bikes </h2>
+        <div id="carousel-small" class="owl-carousel enable-owl-carousel" data-items="4" data-navigation="true" data-auto-play="true" data-stop-on-hover="true" data-items-desktop="4" data-items-desktop-small="4" data-items-tablet="3" data-items-tablet-small="2">
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $184,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                    <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/audi.jpg" alt="audi" />
+                    </a>
+                    <div class="b-featured__item-price">
+                        $95,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">AUDI R8 SPYDER V-8</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>0.00 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2015</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
 
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/aston.jpg" alt="aston" />
+                        <span class="m-leasing">LEASING AVAILABLE</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $101,025
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">ASTON MARTIN VANTAGE</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/jaguar.jpg" alt="jaguar" />
+                    </a>
+                    <div class="b-featured__item-price">
+                        $130,825
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">JAGUAR F-TYPE R</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>0.00</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2015</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $184,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $184,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            
+        </div>
+         <div>
+                <a href="#" class="btn m-btn btn-primarynew btn">View All Bikes</a>
+            </div>
+    </div>
+</section>
+<section class="b-featured pt-5">
+    <div class="container">
+        <h2 class="s-title wow zoomInUp" data-wow-delay="0.3s">Scooters </h2>
+        <div id="carousel-small" class="owl-carousel enable-owl-carousel" data-items="4" data-navigation="true" data-auto-play="true" data-stop-on-hover="true" data-items-desktop="4" data-items-desktop-small="4" data-items-tablet="3" data-items-tablet-small="2">
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $184,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                    <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/audi.jpg" alt="audi" />
+                    </a>
+                    <div class="b-featured__item-price">
+                        $95,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">AUDI R8 SPYDER V-8</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>0.00 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2015</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/aston.jpg" alt="aston" />
+                        <span class="m-leasing">LEASING AVAILABLE</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $101,025
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">ASTON MARTIN VANTAGE</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/jaguar.jpg" alt="jaguar" />
+                    </a>
+                    <div class="b-featured__item-price">
+                        $130,825
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">JAGUAR F-TYPE R</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>0.00</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2015</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $184,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+                    <div class="b-featured__item-price">
+                        $184,900
+                    </div>
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
+                    <div class="b-featured__item-links">
+                        <a href="#">Used</a>
+                        <a href="#">2014</a>
+                        <a href="#">Manual</a>
+                        <a href="#">Orange</a>
+                        <a href="#">Petrol</a>
+                    </div>
+                      <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
+                </div>
+            </div>
+            
+        </div>
+         <div>
+                <a href="#" class="btn m-btn btn-primarynew btn">View All Scooters</a>
+            </div>
+    </div>
+</section>
+<section  class="b-auto">
+    <div class="container">
+        <div class="row">
+             <div class="col-12">
+                    <h2 class="s-title wow zoomInUp" data-wow-delay="0.3s">Explore Vehicles By Brands </h2>
+
+                <div class="b-auto__main">
+                    <div class="col-12 mb-5">
+                        <a href="#" class="b-auto__main-toggle s-lineDownCenter m-active j-tab wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100" data-to="#first">Car Brands</a>
+                        <a href="#" class="b-auto__main-toggle j-tab wow zoomInUp" data-wow-delay="0.3s" data-wow-offset="100" data-to="#second">Bike Brands</a>
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="row" id="first">
+                        <div class="col-md-2 col-sm-12 col-xs-2 ">
+                            <div class="brand-img">
+                                <a href="" class="wow slideInUp text-center" data-wow-delay="0.3s" data-wow-offset="100">
+                                    <img class="img-responsive" src="https://www.carbike360.com/_next/image?url=https%3A%2F%2Fdelen.s3.ap-southeast-1.amazonaws.com%2Fthumbnail_Suzuki_logo_75279f91e0.png&w=1920&q=75" alt="mazda" />
+
+                                    <h2 class="text-center">Maruti</h2>
+                                
+                                </a>
+                            </div>
+                            
+                        </div>
+                        <div class="col-md-2 col-sm-12 col-xs-2 ">
+                            <div class="brand-img">
+                                <a href="" class="wow slideInUp text-center" data-wow-delay="0.3s" data-wow-offset="100">
+                                    <img class="img-responsive" src="https://www.carbike360.com/_next/image?url=https%3A%2F%2Fdelen.s3.ap-southeast-1.amazonaws.com%2Fthumbnail_Suzuki_logo_75279f91e0.png&w=1920&q=75" alt="mazda" />
+
+                                    <h2 class="text-center">Maruti</h2>
+                                
+                                </a>
+                            </div>
+                            
+                        </div>
+                        <div class="col-md-2 col-sm-12 col-xs-2 ">
+                            <div class="brand-img">
+                                <a href="" class="wow slideInUp text-center" data-wow-delay="0.3s" data-wow-offset="100">
+                                    <img class="img-responsive" src="https://www.carbike360.com/_next/image?url=https%3A%2F%2Fdelen.s3.ap-southeast-1.amazonaws.com%2Fthumbnail_Suzuki_logo_75279f91e0.png&w=1920&q=75" alt="mazda" />
+
+                                    <h2 class="text-center">Maruti</h2>
+                                
+                                </a>
+                            </div>
+                            
+                        </div>
+                        <div class="col-md-2 col-sm-12 col-xs-2 ">
+                            <div class="brand-img">
+                                <a href="" class="wow slideInUp text-center" data-wow-delay="0.3s" data-wow-offset="100">
+                                    <img class="img-responsive" src="https://www.carbike360.com/_next/image?url=https%3A%2F%2Fdelen.s3.ap-southeast-1.amazonaws.com%2Fthumbnail_Suzuki_logo_75279f91e0.png&w=1920&q=75" alt="mazda" />
+
+                                    <h2 class="text-center">Maruti</h2>
+                                
+                                </a>
+                            </div>
+                            
+                        </div>
+                        <div class="col-md-2 col-sm-12 col-xs-2 ">
+                            <div class="brand-img">
+                                <a href="" class="wow slideInUp text-center" data-wow-delay="0.3s" data-wow-offset="100">
+                                    <img class="img-responsive" src="https://www.carbike360.com/_next/image?url=https%3A%2F%2Fdelen.s3.ap-southeast-1.amazonaws.com%2Fthumbnail_Suzuki_logo_75279f91e0.png&w=1920&q=75" alt="mazda" />
+
+                                    <h2 class="text-center">Maruti</h2>
+                                
+                                </a>
+                            </div>
+                            
+                        </div>
+                        <div class="col-md-2 col-sm-12 col-xs-2 ">
+                            <div class="brand-img">
+                                <a href="" class="wow slideInUp text-center" data-wow-delay="0.3s" data-wow-offset="100">
+                                    <img class="img-responsive" src="https://www.carbike360.com/_next/image?url=https%3A%2F%2Fdelen.s3.ap-southeast-1.amazonaws.com%2Fthumbnail_Suzuki_logo_75279f91e0.png&w=1920&q=75" alt="mazda" />
+
+                                    <h2 class="text-center">Maruti</h2>
+                                
+                                </a>
+                            </div>
+                            
+                        </div>
+                        <div class="col-md-2 col-sm-12 col-xs-2 ">
+                            <div class="brand-img">
+                                <a href="" class="wow slideInUp text-center" data-wow-delay="0.3s" data-wow-offset="100">
+                                    <img class="img-responsive" src="https://www.carbike360.com/_next/image?url=https%3A%2F%2Fdelen.s3.ap-southeast-1.amazonaws.com%2Fthumbnail_Suzuki_logo_75279f91e0.png&w=1920&q=75" alt="mazda" />
+
+                                    <h2 class="text-center">Maruti</h2>
+                                
+                                </a>
+                            </div>
+                            
+                        </div>
+                        <div class="col-md-2 col-sm-12 col-xs-2 ">
+                            <div class="brand-img">
+                                <a href="" class="wow slideInUp text-center" data-wow-delay="0.3s" data-wow-offset="100">
+                                    <img class="img-responsive" src="https://www.carbike360.com/_next/image?url=https%3A%2F%2Fdelen.s3.ap-southeast-1.amazonaws.com%2Fthumbnail_Suzuki_logo_75279f91e0.png&w=1920&q=75" alt="mazda" />
+
+                                    <h2 class="text-center">Maruti</h2>
+                                
+                                </a>
+                            </div>
+                            
+                        </div>
+                        <div class="col-md-2 col-sm-12 col-xs-2 ">
+                            <div class="brand-img">
+                                <a href="" class="wow slideInUp text-center" data-wow-delay="0.3s" data-wow-offset="100">
+                                    <img class="img-responsive" src="https://www.carbike360.com/_next/image?url=https%3A%2F%2Fdelen.s3.ap-southeast-1.amazonaws.com%2Fthumbnail_Suzuki_logo_75279f91e0.png&w=1920&q=75" alt="mazda" />
+
+                                    <h2 class="text-center">Maruti</h2>
+                                
+                                </a>
+                            </div>
+                            
+                        </div>
+             
+                    </div>
+                    <div class="row" id="second">
+                        <div class="col-md-2 col-sm-12 col-xs-2">
+                        <div class="brand-img">
+                            <a href="" class="wow slideInUp text-center" data-wow-delay="0.3s" data-wow-offset="100">
+                                <img class="img-responsive" src="https://www.carbike360.com/_next/image?url=https%3A%2F%2Fdelen.s3.ap-southeast-1.amazonaws.com%2Fthumbnail_Tata_logo_621bd9c171.png&w=1920&q=75" alt="mazda" />
+
+                                <h2 class="text-center">Tata</h2>
+                               
+                            </a>
+                            </div>
+                        </div>
+                    </div>
+                     
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="b-world">
     <div class="container">
-        <h6 class="wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100">EVERYTHING YOU NEED TO KNOW</h6><br />
-        <h2 class="s-title wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">THE WORLD OF AUTOS</h2>
+        <h2 class="s-title wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">Latest News</h2>
         <div class="row">
             <div class="col-sm-4 col-xs-12">
                 <div class="b-world__item wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100">
                     <img class="img-responsive" src="frontend/media/370x200/wolks.jpg" alt="wolks" />
-                    <div class="b-world__item-val">
-                        <span class="b-world__item-val-title">FIRST DRIVE REVIEW</span>
-                        <div class="b-world__item-val-circles">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            <span class="m-empty"></span>
-                        </div>
-                        <span class="b-world__item-num">4.1</span>
-                    </div>
+          
                     <h2>2016 Volkswagen Golf R SportWagen</h2>
                     <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
                         sem velde metus imperdiet lacinia.</p>
@@ -669,17 +1309,7 @@
             <div class="col-sm-4 col-xs-12">
                 <div class="b-world__item wow zoomInUp" data-wow-delay="0.3s" data-wow-offset="100">
                     <img class="img-responsive" src="frontend/media/370x200/mazda.jpg" alt="mazda" />
-                    <div class="b-world__item-val">
-                        <span class="b-world__item-val-title">INSTRUMENTED TEST</span>
-                        <div class="b-world__item-val-circles">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            <span class="m-halfEmpty"></span>
-                        </div>
-                        <span class="b-world__item-num">4.5</span>
-                    </div>
+                    
                     <h2>2016 Mazda CX-5 2.5L AWD</h2>
                     <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
                         sem velde metus imp erdiet lacinia.</p>
@@ -689,17 +1319,7 @@
             <div class="col-sm-4 col-xs-12">
                 <div class="b-world__item j-item wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">
                     <img class="img-responsive" src="frontend/media/370x200/chevrolet.jpg" alt="chevrolet" />
-                    <div class="b-world__item-val">
-                        <span class="b-world__item-val-title">BUYERS INFO</span>
-                        <div class="b-world__item-val-circles">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </div>
-                        <span class="b-world__item-num">5.0</span>
-                    </div>
+                    
                     <h2>Advantages of Buying New or Used Vehicle</h2>
                     <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
                         sem velde metus imp erdiet lacinia.</p>
@@ -711,377 +1331,11 @@
 </section>
 <!--b-world-->
 
-<section class="b-asks">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-sm-10 col-sm-offset-1 col-md-offset-0 col-xs-12">
-                <div class="b-asks__first wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100">
-                    <div class="b-asks__first-circle">
-                        <span class="fa fa-search"></span>
-                    </div>
-                    <div class="b-asks__first-info">
-                        <h2>ARE YOU LOOKING FOR A CAR?</h2>
-                        <p>Search Our Inventory With Thousands Of Cars And More
-                            Cars Are Adding On Daily Basis</p>
-                    </div>
-                    <div class="b-asks__first-arrow">
-                        <a href="listingsTwo.html"><span class="fa fa-angle-right"></span></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-sm-10 col-sm-offset-1 col-xs-12 col-md-offset-0">
-                <div class="b-asks__first m-second wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">
-                    <div class="b-asks__first-circle">
-                        <span class="fa fa-usd"></span>
-                    </div>
-                    <div class="b-asks__first-info">
-                        <h2>DO YOU WANT TO SELL A CAR?</h2>
-                        <p>Search Our Inventory With Thousands Of Cars And More
-                            Cars Are Adding On Daily Basis</p>
-                    </div>
-                    <div class="b-asks__first-arrow">
-                        <a href="listingsTwo.html"><span class="fa fa-angle-right"></span></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12">
-                <p class="b-asks__call wow zoomInUp" data-wow-delay="0.3s" data-wow-offset="100">QUESTIONS? CALL US : <span>1-800- 624-5462</span></p>
-            </div>
-        </div>
-    </div>
-</section>
-<!--b-asks-->
 
-<section class="b-auto">
-    <div class="container">
-        <h5 class="s-titleBg wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100">GIVING OUR CUSTOMERS BEST DEALS</h5><br />
-        <h2 class="s-title wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">BEST OFFERS FROM AUTOCLUB</h2>
-        <div class="row">
-            <div class="col-xs-5 col-sm-4 col-md-3">
-                <aside class="b-auto__main-nav wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100">
-                    <ul>
-                        <li class="active"><a href="#">All Manufacturers</a><span class="fa fa-angle-right"></span></li>
-                        <li><a href="#">Chevrolet</a></li>
-                        <li><a href="#">Honda</a></li>
-                        <li><a href="#">Toyota</a></li>
-                        <li><a href="#">Bmw</a></li>
-                        <li><a href="#">Volkswagen</a></li>
-                        <li><a href="#">Ferrari</a></li>
-                        <li><a href="#">Audi</a></li>
-                    </ul>
-                    <div class="owl-buttons">
-                        <div class="owl-prev j-tab" data-to='#first'></div>
-                        <div class="owl-next j-tab" data-to='#second'></div>
-                    </div>
-                </aside>
-            </div>
-            <div class="col-md-9 col-sm-8 col-xs-7">
-                <div class="b-auto__main">
-                    <div class="col-md-11 col-md-offset-1 col-xs-12">
-                        <a href="#" class="b-auto__main-toggle s-lineDownCenter m-active j-tab wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100" data-to="#first">MOST RESEARCHED MANUFACTURERS</a>
-                        <a href="#" class="b-auto__main-toggle j-tab wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100" data-to="#second">LATEST VEHICLES ON SALE</a>
-                    </div>
-                    <div class="clearfix"></div>
-                    <div class="row m-margin" id="first">
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="b-auto__main-item wow slideInUp" data-wow-delay="0.3s" data-wow-offset="100">
-                                <img class="img-responsive" src="frontend/media/270x150/acura.jpg" alt="mazda" />
-                                <div class="b-world__item-val">
-                                    <span class="b-world__item-val-title">REGISTERED <span>2014</span></span>
-                                </div>
-                                <h2><a href="#">Acura RLX Sport Hybrid</a></h2>
-                                <div class="b-auto__main-item-info">
-                                    <span class="m-price">
-                                        $44,380
-                                    </span>
-                                    <span class="m-number">
-                                        <span class="fa fa-tachometer"></span>35,000 KM
-                                    </span>
-                                </div>
-                                <div class="b-featured__item-links m-auto">
-                                    <a href="#">Used</a>
-                                    <a href="#">2014</a>
-                                    <a href="#">Manual</a>
-                                    <a href="#">Orange</a>
-                                    <a href="#">Petrol</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="b-auto__main-item wow slideInUp" data-wow-delay="0.3s" data-wow-offset="100">
-                                <img class="img-responsive" src="frontend/media/270x150/nissan.jpg" alt="mazda" />
-                                <div class="b-world__item-val">
-                                    <span class="b-world__item-val-title">REGISTERED <span>2014</span></span>
-                                </div>
-                                <h2><a href="#">2015 Nissan Juke</a></h2>
-                                <div class="b-auto__main-item-info">
-                                    <span class="m-price">
-                                        $95,900
-                                    </span>
-                                    <span class="m-number">
-                                        <span class="fa fa-tachometer"></span>12,000 KM
-                                    </span>
-                                </div>
-                                <div class="b-featured__item-links m-auto">
-                                    <a href="#">Used</a>
-                                    <a href="#">2014</a>
-                                    <a href="#">Manual</a>
-                                    <a href="#">Orange</a>
-                                    <a href="#">Petrol</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="b-auto__main-item wow slideInUp" data-wow-delay="0.3s" data-wow-offset="100">
-                                <img class="img-responsive" src="frontend/media/270x150/acura2016.jpg" alt="mazda" />
-                                <div class="b-world__item-val">
-                                    <span class="b-world__item-val-title">REGISTERED <span>2014</span></span>
-                                </div>
-                                <h2><a href="#">2016 Acura NSX </a></h2>
-                                <div class="b-auto__main-item-info">
-                                    <span class="m-price">
-                                        $28,995
-                                    </span>
-                                    <span class="m-number">
-                                        <span class="fa fa-tachometer"></span>5,000 KM
-                                    </span>
-                                </div>
-                                <div class="b-featured__item-links m-auto">
-                                    <a href="#">Used</a>
-                                    <a href="#">2014</a>
-                                    <a href="#">Manual</a>
-                                    <a href="#">Orange</a>
-                                    <a href="#">Petrol</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="b-auto__main-item wow slideInUp" data-wow-delay="0.3s" data-wow-offset="100">
-                                <img class="img-responsive" src="frontend/media/270x150/amg.jpg" alt="mazda" />
-                                <div class="b-world__item-val">
-                                    <span class="b-world__item-val-title">REGISTERED <span>2014</span></span>
-                                </div>
-                                <h2><a href="#">2015 Mercedes-AMG C63</a></h2>
-                                <div class="b-auto__main-item-info">
-                                    <span class="m-price">
-                                        $95,900
-                                    </span>
-                                    <span class="m-number">
-                                        <span class="fa fa-tachometer"></span>12,000 KM
-                                    </span>
-                                </div>
-                                <div class="b-featured__item-links m-auto">
-                                    <a href="#">Used</a>
-                                    <a href="#">2014</a>
-                                    <a href="#">Manual</a>
-                                    <a href="#">Orange</a>
-                                    <a href="#">Petrol</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="b-auto__main-item wow slideInUp" data-wow-delay="0.3s" data-wow-offset="100">
-                                <img class="img-responsive" src="frontend/media/270x150/brabus.jpg" alt="mazda" />
-                                <div class="b-world__item-val">
-                                    <span class="b-world__item-val-title">REGISTERED <span>2014</span></span>
-                                </div>
-                                <h2><a href="#">Brabus 850 6.0 Biturbo Coupe</a></h2>
-                                <div class="b-auto__main-item-info">
-                                    <span class="m-price">
-                                        $28,995
-                                    </span>
-                                    <span class="m-number">
-                                        <span class="fa fa-tachometer"></span>5,000 KM
-                                    </span>
-                                </div>
-                                <div class="b-featured__item-links m-auto">
-                                    <a href="#">Used</a>
-                                    <a href="#">2014</a>
-                                    <a href="#">Manual</a>
-                                    <a href="#">Orange</a>
-                                    <a href="#">Petrol</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="b-auto__main-item wow slideInUp" data-wow-delay="0.3s" data-wow-offset="100">
-                                <img class="img-responsive" src="frontend/media/270x150/range.jpg" alt="mazda" />
-                                <div class="b-world__item-val">
-                                    <span class="b-world__item-val-title">REGISTERED <span>2014</span></span>
-                                </div>
-                                <h2><a href="#">Land Rover Range Rover</a></h2>
-                                <div class="b-auto__main-item-info">
-                                    <span class="m-price">
-                                        $44,380
-                                    </span>
-                                    <span class="m-number">
-                                        <span class="fa fa-tachometer"></span>35,000 KM
-                                    </span>
-                                </div>
-                                <div class="b-featured__item-links m-auto">
-                                    <a href="#">Used</a>
-                                    <a href="#">2014</a>
-                                    <a href="#">Manual</a>
-                                    <a href="#">Orange</a>
-                                    <a href="#">Petrol</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row m-margin" id="second">
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="b-auto__main-item wow slideInUp" data-wow-delay="0.3s" data-wow-offset="100">
-                                <img class="img-responsive" src="frontend/media/270x150/acura.jpg" alt="mazda" />
-                                <div class="b-world__item-val">
-                                    <span class="b-world__item-val-title">REGISTERED <span>2014</span></span>
-                                </div>
-                                <h2><a href="#">Acura RLX Sport Hybrid</a></h2>
-                                <div class="b-auto__main-item-info">
-                                    <span class="m-price">
-                                        $44,380
-                                    </span>
-                                    <span class="m-number">
-                                        <span class="fa fa-tachometer"></span>35,000 KM
-                                    </span>
-                                </div>
-                                <div class="b-featured__item-links m-auto">
-                                    <a href="#">Used</a>
-                                    <a href="#">2014</a>
-                                    <a href="#">Manual</a>
-                                    <a href="#">Orange</a>
-                                    <a href="#">Petrol</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="b-auto__main-item wow slideInUp" data-wow-delay="0.3s" data-wow-offset="100">
-                                <img class="img-responsive" src="frontend/media/270x150/acura.jpg" alt="mazda" />
-                                <div class="b-world__item-val">
-                                    <span class="b-world__item-val-title">REGISTERED <span>2014</span></span>
-                                </div>
-                                <h2><a href="#">Acura RLX Sport Hybrid</a></h2>
-                                <div class="b-auto__main-item-info">
-                                    <span class="m-price">
-                                        $44,380
-                                    </span>
-                                    <span class="m-number">
-                                        <span class="fa fa-tachometer"></span>35,000 KM
-                                    </span>
-                                </div>
-                                <div class="b-featured__item-links m-auto">
-                                    <a href="#">Used</a>
-                                    <a href="#">2014</a>
-                                    <a href="#">Manual</a>
-                                    <a href="#">Orange</a>
-                                    <a href="#">Petrol</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="b-auto__main-item wow slideInUp" data-wow-delay="0.3s" data-wow-offset="100">
-                                <img class="img-responsive" src="frontend/media/270x150/acura.jpg" alt="mazda" />
-                                <div class="b-world__item-val">
-                                    <span class="b-world__item-val-title">REGISTERED <span>2014</span></span>
-                                </div>
-                                <h2><a href="#">Acura RLX Sport Hybrid</a></h2>
-                                <div class="b-auto__main-item-info">
-                                    <span class="m-price">
-                                        $44,380
-                                    </span>
-                                    <span class="m-number">
-                                        <span class="fa fa-tachometer"></span>35,000 KM
-                                    </span>
-                                </div>
-                                <div class="b-featured__item-links m-auto">
-                                    <a href="#">Used</a>
-                                    <a href="#">2014</a>
-                                    <a href="#">Manual</a>
-                                    <a href="#">Orange</a>
-                                    <a href="#">Petrol</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="b-auto__main-item wow slideInUp" data-wow-delay="0.3s" data-wow-offset="100">
-                                <img class="img-responsive" src="frontend/media/270x150/acura.jpg" alt="mazda" />
-                                <div class="b-world__item-val">
-                                    <span class="b-world__item-val-title">REGISTERED <span>2014</span></span>
-                                </div>
-                                <h2><a href="#">Acura RLX Sport Hybrid</a></h2>
-                                <div class="b-auto__main-item-info">
-                                    <span class="m-price">
-                                        $44,380
-                                    </span>
-                                    <span class="m-number">
-                                        <span class="fa fa-tachometer"></span>35,000 KM
-                                    </span>
-                                </div>
-                                <div class="b-featured__item-links m-auto">
-                                    <a href="#">Used</a>
-                                    <a href="#">2014</a>
-                                    <a href="#">Manual</a>
-                                    <a href="#">Orange</a>
-                                    <a href="#">Petrol</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="b-auto__main-item wow slideInUp" data-wow-delay="0.3s" data-wow-offset="100">
-                                <img class="img-responsive" src="frontend/media/270x150/acura.jpg" alt="mazda" />
-                                <div class="b-world__item-val">
-                                    <span class="b-world__item-val-title">REGISTERED <span>2014</span></span>
-                                </div>
-                                <h2><a href="#">Acura RLX Sport Hybrid</a></h2>
-                                <div class="b-auto__main-item-info">
-                                    <span class="m-price">
-                                        $44,380
-                                    </span>
-                                    <span class="m-number">
-                                        <span class="fa fa-tachometer"></span>35,000 KM
-                                    </span>
-                                </div>
-                                <div class="b-featured__item-links m-auto">
-                                    <a href="#">Used</a>
-                                    <a href="#">2014</a>
-                                    <a href="#">Manual</a>
-                                    <a href="#">Orange</a>
-                                    <a href="#">Petrol</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <div class="b-auto__main-item wow slideInUp" data-wow-delay="0.3s" data-wow-offset="100">
-                                <img class="img-responsive" src="frontend/media/270x150/acura.jpg" alt="mazda" />
-                                <div class="b-world__item-val">
-                                    <span class="b-world__item-val-title">REGISTERED <span>2014</span></span>
-                                </div>
-                                <h2><a href="#">Acura RLX Sport Hybrid</a></h2>
-                                <div class="b-auto__main-item-info">
-                                    <span class="m-price">
-                                        $44,380
-                                    </span>
-                                    <span class="m-number">
-                                        <span class="fa fa-tachometer"></span>35,000 KM
-                                    </span>
-                                </div>
-                                <div class="b-featured__item-links m-auto">
-                                    <a href="#">Used</a>
-                                    <a href="#">2014</a>
-                                    <a href="#">Manual</a>
-                                    <a href="#">Orange</a>
-                                    <a href="#">Petrol</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--b-auto-->
 
-<section class="b-count">
+
+
+<section class="b-count ">
     <div class="container">
         <div class="row">
             <div class="col-md-11 col-xs-12 percent-blocks m-main" data-waypoint-scroll="true">
@@ -1137,31 +1391,45 @@
 </section>
 <!--b-count-->
 
-<section class="b-contact">
+<section class="b-world">
     <div class="container">
-        <div class="row wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100">
-            <div class="col-xs-4">
-                <div class="b-contact-title">
-                    <h5>LATEST NEWS &amp; DEALS</h5><br />
-                    <h2>NEWSLETTER SIGNUP</h2>
+        <h2 class="s-title wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">Articles</h2>
+        <div class="row">
+            <div class="col-sm-4 col-xs-12">
+                <div class="b-world__item wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100">
+                    <img class="img-responsive" src="frontend/media/370x200/wolks.jpg" alt="wolks" />
+                    
+                    <h2>2016 Volkswagen Golf R SportWagen</h2>
+                    <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
+                        sem velde metus imperdiet lacinia.</p>
+                    <a href="article.html" class="btn m-btn">READ MORE<span class="fa fa-angle-right"></span></a>
                 </div>
             </div>
-            <div class="col-xs-8">
-                <div class="b-contact__form">
-                    <p>WE SEND GREAT DEALS AND LATEST AUTO NEWS TO OUR SUBSCRIBED USERS EVERY WEEK. ITS FREE SO SUBSCRIBE TODAY!</p>
-                    <form action="https://pro-theme.com/" method="POST">
-                        <div><span class="fa fa-user"></span><input type="text" name="user" value="" placeholder="Your Name" /></div>
-                        <div><span class="fa fa-envelope"></span><input type="text" name="email" value="" placeholder="Your Email" /></div>
-                        <button type="submit"><span class="fa fa-angle-right"></span></button>
-                    </form>
+            <div class="col-sm-4 col-xs-12">
+                <div class="b-world__item wow zoomInUp" data-wow-delay="0.3s" data-wow-offset="100">
+                    <img class="img-responsive" src="frontend/media/370x200/mazda.jpg" alt="mazda" />
+                    
+                    <h2>2016 Mazda CX-5 2.5L AWD</h2>
+                    <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
+                        sem velde metus imp erdiet lacinia.</p>
+                    <a href="article.html" class="btn m-btn m-active">READ MORE<span class="fa fa-angle-right"></span></a>
+                </div>
+            </div>
+            <div class="col-sm-4 col-xs-12">
+                <div class="b-world__item j-item wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">
+                    <img class="img-responsive" src="frontend/media/370x200/chevrolet.jpg" alt="chevrolet" />
+                    
+                    <h2>Advantages of Buying New or Used Vehicle</h2>
+                    <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
+                        sem velde metus imp erdiet lacinia.</p>
+                    <a href="article.html" class="btn m-btn">READ MORE<span class="fa fa-angle-right"></span></a>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!--b-contact-->
 
-<section class="b-review">
+<section class="b-review clientreviwe">
     <div class="container">
         <div class="col-sm-10 col-sm-offset-1 col-xs-12">
             <div id="carousel-small-rev" class="owl-carousel enable-owl-carousel" data-items="1" data-navigation="true" data-auto-play="true" data-stop-on-hover="true" data-items-desktop="1" data-items-desktop-small="1" data-items-tablet="1" data-items-tablet-small="1">
@@ -1195,7 +1463,7 @@
             </div>
         </div>
     </div>
-    <img src="images/backgrounds/reviews.jpg" alt="" class="img-responsive center-block" />
+    {{-- <img src="{{url('frontend/images/backgrounds/reviews.jpg')}}" alt="" class="img-responsive center-block" /> --}}
 </section>
 <!--b-review-->
 
@@ -1214,115 +1482,6 @@
 </div>
 <!--b-features-->
 
-<div class="b-info">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3 col-xs-6">
-                <aside class="b-info__aside wow zoomInLeft" data-wow-delay="0.3s">
-                    <article class="b-info__aside-article">
-                        <h3>OPENING HOURS</h3>
-                        <div class="b-info__aside-article-item">
-                            <h6>Sales Department</h6>
-                            <p>Mon-Sat : 8:00am - 5:00pm<br />
-                                Sunday is closed</p>
-                        </div>
-                        <div class="b-info__aside-article-item">
-                            <h6>Service Department</h6>
-                            <p>Mon-Sat : 8:00am - 5:00pm<br />
-                                Sunday is closed</p>
-                        </div>
-                    </article>
-                    <article class="b-info__aside-article">
-                        <h3>About us</h3>
-                        <p>Vestibulum varius od lio eget conseq
-                            uat blandit, lorem auglue comm lodo
-                            nisl non ultricies lectus nibh mas lsa
-                            Duis scelerisque aliquet. Ante donec
-                            libero pede porttitor dacu msan esct
-                            venenatis quis.</p>
-                    </article>
-                    <a href="about.html" class="btn m-btn">Read More<span class="fa fa-angle-right"></span></a>
-                </aside>
-            </div>
-            <div class="col-md-3 col-xs-6">
-                <div class="b-info__latest">
-                    <h3>LATEST AUTOS</h3>
-                    <div class="b-info__latest-article wow zoomInUp" data-wow-delay="0.3s">
-                        <div class="b-info__latest-article-photo m-audi"></div>
-                        <div class="b-info__latest-article-info">
-                            <h6><a href="#">MERCEDES-AMG GT S</a></h6>
-                            <p><span class="fa fa-tachometer"></span> 35,000 KM</p>
-                        </div>
-                    </div>
-                    <div class="b-info__latest-article wow zoomInUp" data-wow-delay="0.3s">
-                        <div class="b-info__latest-article-photo m-audiSpyder"></div>
-                        <div class="b-info__latest-article-info">
-                            <h6><a href="#">AUDI R8 SPYDER V-8</a></h6>
-                            <p><span class="fa fa-tachometer"></span> 35,000 KM</p>
-                        </div>
-                    </div>
-                    <div class="b-info__latest-article wow zoomInUp" data-wow-delay="0.3s">
-                        <div class="b-info__latest-article-photo m-aston"></div>
-                        <div class="b-info__latest-article-info">
-                            <h6><a href="#">ASTON MARTIN VANTAGE</a></h6>
-                            <p><span class="fa fa-tachometer"></span> 35,000 KM</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-xs-6">
-                <div class="b-info__twitter">
-                    <h3>from twitter</h3>
-                    <div class="b-info__twitter-article wow zoomInUp" data-wow-delay="0.3s">
-                        <div class="b-info__twitter-article-icon"><span class="fa fa-twitter"></span></div>
-                        <div class="b-info__twitter-article-content">
-                            <p>Duis scelerisque aliquet ante donec libero pede porttitor dacu</p>
-                            <span>20 minutes ago</span>
-                        </div>
-                    </div>
-                    <div class="b-info__twitter-article wow zoomInUp" data-wow-delay="0.3s">
-                        <div class="b-info__twitter-article-icon"><span class="fa fa-twitter"></span></div>
-                        <div class="b-info__twitter-article-content">
-                            <p>Duis scelerisque aliquet ante donec libero pede porttitor dacu</p>
-                            <span>20 minutes ago</span>
-                        </div>
-                    </div>
-                    <div class="b-info__twitter-article wow zoomInUp" data-wow-delay="0.3s">
-                        <div class="b-info__twitter-article-icon"><span class="fa fa-twitter"></span></div>
-                        <div class="b-info__twitter-article-content">
-                            <p>Duis scelerisque aliquet ante donec libero pede porttitor dacu</p>
-                            <span>20 minutes ago</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-xs-6">
-                <address class="b-info__contacts wow zoomInUp" data-wow-delay="0.3s">
-                    <p>contact us</p>
-                    <div class="b-info__contacts-item">
-                        <span class="fa fa-map-marker"></span>
-                        <em>202 W 7th St, Suite 233 Los Angeles,
-                            California 90014 USA</em>
-                    </div>
-                    <div class="b-info__contacts-item">
-                        <span class="fa fa-phone"></span>
-                        <em>Phone: 1-800- 624-5462</em>
-                    </div>
-                    <div class="b-info__contacts-item">
-                        <span class="fa fa-fax"></span>
-                        <em>FAX: 1-800- 624-5462</em>
-                    </div>
-                    <div class="b-info__contacts-item">
-                        <span class="fa fa-envelope"></span>
-                        <em>Email: info@domain.com</em>
-                    </div>
-                </address>
-                <address class="b-info__map">
-                    <a href="contacts.html">Open Location Map</a>
-                </address>
-            </div>
-        </div>
-    </div>
-</div>
+
 <!--b-info-->
 @endsection

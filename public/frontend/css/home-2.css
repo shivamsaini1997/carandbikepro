@@ -213,7 +213,7 @@
 
 .m-home .b-homeAuto__world-item-info > h2:before{
     height:20px;
-    border-left: 3px solid #f76d2b;
+    border-left: 3px solid #228dcb;
     position: absolute;
     left:0;
     top:0;
@@ -256,9 +256,9 @@
 }
 
 .m-home .b-homeAuto__world > a:hover{
-    background: #f76d2b;
+    background: #228dcb;
     color:#fff;
-    border-color: #f76d2b;
+    border-color: #228dcb;
 }
 
 .m-home .b-homeAuto__world > a:hover span.fa{

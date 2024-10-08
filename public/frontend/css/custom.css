@@ -2,3 +2,64 @@
 /* CUSTOM CSS (ADD YOUR CSS HERE!) */
 /*//////////////////////////////////////////////////////////////////////////////////////////*/
 
+.pt-5{
+    padding-top: 7rem !important;
+}
+.newcardbtn {
+    border: 1px solid #228dcb;
+    padding: 5px 10px !important;
+    margin-top: 15px;
+    display: block !important;
+    color: #228dcb !important;
+    text-transform: capitalize;
+    font-size: 14px !important;
+    transition: all 0.5s;
+
+}
+
+.newcardbtn:hover {
+    background: #228dcb;
+    border-color: #228dcb;
+    color: #fff !important;
+}
+.b-featured .btn-primarynew {
+    padding: 8px 16px;
+    background: #228dcb;
+    color: #fff;
+    margin-top: 22px;
+    border:1px solid #228dcb;
+    text-transform: uppercase;
+    transition: all 0.5s;
+
+}
+.b-featured .btn-primarynew:hover {
+    background: transparent;
+    border:1px solid #228dcb;
+    color: #228dcb;
+}
+.text-center{
+    text-align: center !important;
+}
+.brand-img img {
+    width: 75px;
+    margin: auto;
+}
+.brand-img h2 {
+    font-size: 14px;
+    margin-top: 13px;
+    font-weight: 500;
+}
+.brand-img a{
+    color: #a2a2a2;
+}
+.brand-img {
+    box-shadow: 0px 0px 8px 0px #d1d1d157;
+    padding: 15px 15px 5px;
+    margin-bottom: 28px;
+}
+.mb-5{
+    margin-bottom: 3rem;
+}
+.brand-img a:hover {
+    text-decoration: none;
+}

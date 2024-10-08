@@ -32,7 +32,7 @@ body{
 }
 
 .b-topBar__addr span.fa,.b-topBar__tel span.fa{
-    color:#f76e2b;
+    color:#228dcb;
 }
 
 .b-topBar__nav li a,.b-topBar__lang a{
@@ -40,13 +40,13 @@ body{
 }
 
 .b-topBar__lang a span.fa{
-    color:#f76e2b;
+    color:#228dcb;
 }
 /*b-topBar*/
 
 /*b-nav*/
 .b-nav__logo h3 a{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-nav__logo h3 a span{
@@ -62,11 +62,11 @@ body{
 }
 
 .b-nav__list ul li a span.fa{
-    color: #f76e2b;
+    color: #228dcb;
 }
 
 .navbar-toggle{
-    background:#F76D2B ;  
+    background:#228dcb ;  
 }
 
  .navbar-toggle span{
@@ -80,7 +80,7 @@ body{
 }
 
 .b-slider__info p span{
-    background: #f76d2b;
+    background: #228dcb;
 }
 
 .carousel-control.left span.fa,.carousel-control.right span.fa{
@@ -98,7 +98,7 @@ body{
 }
 
 .b-slider__info a.btn:hover{
-    background:#f76d2b ;
+    background:#228dcb ;
     color:#fff;
 }
 
@@ -122,7 +122,7 @@ body{
 }
 
 .b-search__main-title{
-    background: #f76d2b;
+    background: #228dcb;
 }
 
 .b-search__main-title h2{
@@ -138,7 +138,7 @@ body{
 }
 
 .m-active svg g{
-    fill:#f76d2b;
+    fill:#228dcb;
 }
 
 .m-active h5{
@@ -150,7 +150,7 @@ body{
 }
 
 .b-search__main-form-submit a{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-search__main-form-submit button.btn.m-btn{
@@ -159,7 +159,7 @@ body{
 }
 
 .b-search__main-form-submit button.btn.m-btn:hover{
-    background: #f76d2b;
+    background: #228dcb;
     color: #fff;
 }
 
@@ -169,7 +169,7 @@ body{
 }
 
 .b-search__main-form-submit button.btn.m-btn span.fa{
-    background: #f76d2b;
+    background: #228dcb;
     color:#fff;
 }
 
@@ -178,7 +178,7 @@ body{
 }
 
 .ui-slider-handle:after{
-    background:#f76d2b;
+    background:#228dcb;
 }
 
 .b-search__main-form-range span.min,.b-search__main-form-range span.max{
@@ -206,7 +206,7 @@ body{
 
 .b-featured__item-price{
     color:#fff;
-    background: #f76d2b;
+    background: #228dcb;
 }
 
 .b-featured__item h5{
@@ -234,7 +234,7 @@ body{
 
 /*b-welcome*/
 .b-welcome{
-    background-color: #f76d2b;
+    background-color: #228dcb;
 }
 
 .b-welcome:after{
@@ -258,7 +258,7 @@ body{
 }
 
 .b-welcome__services-img:hover{
-    background: #f76d2b;
+    background: #228dcb;
 }
 
 .b-welcome__services-img:hover span.fa,.b-welcome__services-img:hover svg g{
@@ -282,7 +282,7 @@ body{
 }
 
 .b-world__item-val-circles span{
-    background: #f76d2b;
+    background: #228dcb;
 }
 
 .b-world__item-num{
@@ -298,9 +298,9 @@ body{
 }
 
 .b-world__item a:hover{
-    background: #f76d2b;
+    background: #228dcb;
     color:#fff;
-    border-color:#f76d2b;
+    border-color:#228dcb;
 }
 
 .b-world__item a.btn.m-btn:hover span{
@@ -323,7 +323,7 @@ body{
 }
 
 .b-asks .b-asks__first:hover{
-    background:#f76d2b;
+    background:#228dcb;
 }
 
 .b-asks__first-circle span{
@@ -367,11 +367,11 @@ body{
 }
 
 .b-auto__main-toggle:hover{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-auto__main-toggle.active{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-auto__main-nav li a{
@@ -383,11 +383,11 @@ body{
 }
 
 .b-auto__main-nav li:hover a{
-    color:#f76d2b
+    color:#228dcb
 }
 
 .b-auto__main-nav li.active a{
-    color:#f76d2b
+    color:#228dcb
 }
 
 .b-auto__main-item h2{
@@ -396,7 +396,7 @@ body{
 
 .b-auto__main-item-info .m-price{
     color: #fff;
-    background: #f76d2b;
+    background: #228dcb;
 }
 
 .b-auto__main-item-info .m-number{
@@ -406,7 +406,7 @@ body{
 
 /*b-count*/
 .b-count{
-    background-color: #f76d2b;
+    background-color: #228dcb;
     color:#fff;
 }
 
@@ -426,7 +426,7 @@ body{
 }
 
 .b-contact-title h5{
-    background: #f76d2b;
+    background: #228dcb;
 }
 
 .b-contact__form form > div span{
@@ -434,7 +434,7 @@ body{
 }
 
 .b-contact__form button{
-    background: #f76d2b;
+    background: #228dcb;
     color: #fff;
 }
 
@@ -462,7 +462,7 @@ body{
 }
 
 .b-review__main h5 em{
-    color:#f76d2b;
+    color:#228dcb;
 }
 /*b-review*/
 
@@ -486,7 +486,7 @@ body{
 }
 
 .b-info__latest > h3,.b-info__aside-article > h3,.b-info__twitter > h3,.b-info__contacts > p{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-info__aside-article-item h6{
@@ -503,9 +503,9 @@ body{
 }
 
 .b-info__aside > a.btn.m-btn:hover{
-    background: #f76d2b;
+    background: #228dcb;
     color: #fff;
-    border-color:#f76d2b;
+    border-color:#228dcb;
 }
 
 .b-info__aside > a.btn.m-btn:hover span{
@@ -605,7 +605,7 @@ body{
 }
 
 .m-home .b-slider__info .btn.m-btn{
-    background:#f76d2b ;
+    background:#228dcb ;
     color:#fff
 }
 
@@ -631,7 +631,7 @@ body{
 }
 
 .m-home .b-search__main >h4{
-    color:#f76d2b;   
+    color:#228dcb;   
 }
 /*b-search*/
 
@@ -669,8 +669,8 @@ body{
 }
 
 .m-home .b-world__item-num{
-    background: #f76d2b;
-    border-color: #f76d2b;
+    background: #228dcb;
+    border-color: #228dcb;
     color:#fff;
 }
 
@@ -704,8 +704,8 @@ body{
 }
 
 .m-home .b-count__item-circle:hover{
-    background:#f76d2b;
-    border-color:#f76d2b;
+    background:#228dcb;
+    border-color:#228dcb;
     cursor:pointer;
     color:#fff;
 }
@@ -715,7 +715,7 @@ body{
 }
 
 .m-home .b-count__item h2{
-   color:#f76d2b; 
+   color:#228dcb; 
 }
 
 .m-home .b-count__item h5{
@@ -741,7 +741,7 @@ body{
 }
 
 .m-home .b-homeReviews__main-person-name em{
-    color:#f76d2b; 
+    color:#228dcb; 
 }
 
 .m-home .b-homeReviews .owl-buttons > div{
@@ -769,7 +769,7 @@ body{
 
 /*b-footer*/
 .m-home .b-footer__toTop-inside{
-    background: #f76d2b;
+    background: #228dcb;
     color:#fff;
 }
 
@@ -791,7 +791,7 @@ body{
 }
 
 .b-pageHeader__search{
-    background: #f76d2b;
+    background: #228dcb;
 }
 /*b-pageHeader*/
 
@@ -819,7 +819,7 @@ body{
 }
 
 .b-infoBar__compare-item span.fa{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-infoBar__compare-item span.fa.fa-caret-down{
@@ -832,7 +832,7 @@ body{
 }
 
 .b-infoBar__select-one a.m-active,.b-infoBar__select-one a:hover{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-infoBar__select-one select{
@@ -857,7 +857,7 @@ body{
 }
 
 .b-items__aside-main-body-item > div select +  span.fa{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-items__aside-main-body-item .ui-slider-handle{
@@ -870,7 +870,7 @@ body{
 }
 
 .b-items__aside-main-body-item .ui-widget-header{
-    background: #f76d2b;
+    background: #228dcb;
 }
 
 .b-items__aside-main-body-item .ui-slider-handle:before{
@@ -883,7 +883,7 @@ body{
 }
 
 .b-items__aside-main-footer button.btn.m-btn{
-    background: #f76d2b;
+    background: #228dcb;
     color:#fff;
 }
 
@@ -898,7 +898,7 @@ body{
 }
 
 .b-items__aside-main-footer button.btn.m-btn:hover span{
-    background: #f76d2b;
+    background: #228dcb;
     color:#fff;
 }
 
@@ -931,7 +931,7 @@ body{
 }
 
 .b-items__aside-sell-info a.btn.m-btn:hover span{
-    background: #f76d2b;
+    background: #228dcb;
     color:#fff;
 }
 
@@ -965,7 +965,7 @@ body{
 }
 
 .b-items__cars-one-img-check span{
-    color: #f76d2b;
+    color: #228dcb;
 }
 
 .b-items__cars-one-info-header h2{
@@ -973,7 +973,7 @@ body{
 }
 
 .b-items__cars-one-info-header > span{
-    background: #f76d2b;
+    background: #228dcb;
     color:#fff;
 }
 
@@ -990,9 +990,9 @@ body{
 }
 
 .b-items__cars-one-info a.btn.m-btn:hover{
-    background: #f76d2b;
+    background: #228dcb;
     color:#fff;
-    border-color:#f76d2b;
+    border-color:#228dcb;
 }
 
 .b-items__cars-one-info a.btn.m-btn:hover span{
@@ -1022,7 +1022,7 @@ body{
 }
 
 .m-listingsTwo .b-items__cars-one-info-price h4{
-    color:#f76d2b;
+    color:#228dcb;
 }
 /*b-items*/
 /*=======================Listings=======================*/
@@ -1054,7 +1054,7 @@ body{
 }
 
 .b-items__cell-info-price{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-items__cell-info-km{
@@ -1066,9 +1066,9 @@ body{
 }
 
 .b-items__cell-info a.btn.m-btn:hover{
-    background: #f76d2b;
+    background: #228dcb;
     color: #fff;
-    border-color: #f76d2b;
+    border-color: #228dcb;
 }
 
 .b-items__cell-info a.btn.m-btn:hover span.fa{
@@ -1098,9 +1098,9 @@ body{
 }
 
 .btn.m-btn.m-infoBtn:hover{
-    background: #f76d2b;
+    background: #228dcb;
     color:#fff;
-    border-color:#f76d2b;
+    border-color:#228dcb;
 }
 
 .btn.m-btn.m-infoBtn:hover span.fa{
@@ -1120,7 +1120,7 @@ body{
 
 .b-detail__head-price-num{
     color:#fff;
-    background: #f76d2b;
+    background: #228dcb;
 }
 
 .b-detail__head-price p{
@@ -1150,7 +1150,7 @@ body{
 }
 
 .b-detail__main-aside-about-seller{
-    background:#f76d2b ;
+    background:#228dcb ;
     color:#fff;
 }
 
@@ -1163,11 +1163,11 @@ body{
 }
 
 .b-detail__main-aside-about-form-links a.m-active{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-detail__main-aside-about-form-links a:hover{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-detail__main-aside form input[type='text'],.b-detail__main-aside form input[type='email'],.b-detail__main-aside form input[type='tel'],.b-detail__main-aside select{
@@ -1197,7 +1197,7 @@ select.m-select + span.fa{
 }
 
 .b-detail__main-aside form button.btn.m-btn{
-    background: #f76d2b;
+    background: #228dcb;
     color:#fff;
 }
 
@@ -1212,7 +1212,7 @@ select.m-select + span.fa{
 }
 
 .b-detail__main-aside form button.btn.m-btn:hover span.fa{
-    background: #f76d2b;
+    background: #228dcb;
     color:#fff;
 }
 
@@ -1234,7 +1234,7 @@ select.m-select + span.fa{
 }
 
 .b-detail__main-info-characteristics-one:hover .b-detail__main-info-characteristics-one-top > div{
-    background: #f76d2b;
+    background: #228dcb;
 }
 
 .b-detail__main-info-characteristics-one-top > div{
@@ -1247,7 +1247,7 @@ select.m-select + span.fa{
 }
 
 .b-detail__main-info-extra ul li span.fa{
-    color:#f76d2b;
+    color:#228dcb;
 }
 /*b-detail*/
 
@@ -1272,7 +1272,7 @@ select.m-select + span.fa{
 }
 
 .m-compare .b-infoBar h5 span{
-    color:#f76d2b;
+    color:#228dcb;
 }
 /*b-infoBar*/
 
@@ -1286,7 +1286,7 @@ select.m-select + span.fa{
 }
 
 .b-compare .b-compare__images .b-compare__images-item-price{
-    background-color:#f76d2b;
+    background-color:#228dcb;
     color:#fff;
 }
 
@@ -1308,7 +1308,7 @@ select.m-select + span.fa{
 }
 
 .b-compare__block-inside-value ul li span.fa{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-compare__links a.btn.m-btn{
@@ -1316,13 +1316,13 @@ select.m-select + span.fa{
 }
 
 .b-compare__links a.btn.m-btn:hover{
-    background:#f76d2b;
+    background:#228dcb;
     color:#fff;
-    border-color:#f76d2b;
+    border-color:#228dcb;
 }
 
 .b-compare__links a.btn.m-btn span.fa{
-    background:#f76d2b ;
+    background:#228dcb ;
 }
 
 .b-compare__links a.btn.m-btn:hover span.fa{
@@ -1344,7 +1344,7 @@ select.m-select + span.fa{
 }
 
 .b-blog__aside-search button{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-blog__aside-categories h2{
@@ -1356,8 +1356,8 @@ select.m-select + span.fa{
 }
 
 .b-blog__aside-categories-list li:hover a,.b-blog__aside-categories-list li.m-active a{
-    color:#f76d2b;
-    border-color:#f76d2b;
+    color:#228dcb;
+    border-color:#228dcb;
 }
 
 .b-blog__aside-popular-posts h4 a{
@@ -1369,7 +1369,7 @@ select.m-select + span.fa{
 }
 
 .b-blog__aside-popular-posts-one-date span.fa{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-blog__aside-text p{
@@ -1385,8 +1385,8 @@ select.m-select + span.fa{
 }
 
 .b-blog__aside-reviews-posts-one-info .b-world__item-num{
-    background:#f76d2b;
-    border-color: #f76d2b ;
+    background:#228dcb;
+    border-color: #228dcb ;
     color:#fff;
 }
 
@@ -1395,7 +1395,7 @@ select.m-select + span.fa{
 }
 
 .b-blog__posts-one-social a:hover{
-    color: #f76d2b ;
+    color: #228dcb ;
 }
 
 .b-blog__posts-one-body-head h2{
@@ -1415,9 +1415,9 @@ select.m-select + span.fa{
 }
 
 .btn.m-btn.m-readMore:hover{
-    background:#f76d2b;
+    background:#228dcb;
     color:#fff ;
-    border-color:#f76d2b;
+    border-color:#228dcb;
 }
 
 .btn.m-btn.m-readMore:hover span.fa{
@@ -1426,7 +1426,7 @@ select.m-select + span.fa{
 }
 
 .b-blog__posts-one-body-main-link{
-    background:#f76d2b ;
+    background:#228dcb ;
 }
 
 .b-blog__posts-one-body-main-link a{
@@ -1440,7 +1440,7 @@ select.m-select + span.fa{
 /*=======================Blog=======================*/
 
 .m-blogTwo .b-blog__posts-one-body-head-notes-note span.fa{
-    color:#f76d2b;
+    color:#228dcb;
 }
 
 .b-blog__posts-one-info p{

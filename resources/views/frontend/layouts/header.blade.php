@@ -48,8 +48,8 @@
             <div class="row">
                 <div class="col-sm-3 col-xs-4">
                     <div class="b-nav__logo wow slideInLeft" data-wow-delay="0.3s">
-                        <h3><a href="home.html">Auto<span>Club</span></a></h3>
-                        <h2><a href="home.html">AUTO DEALER TEMPLATE</a></h2>
+                        <h3><a href="home.html">CAR<span>Bike</span></a></h3>
+                        <h2><a href="home.html">CAR AND BIKE PRO</a></h2>
                     </div>
                 </div>
                 <div class="col-sm-9 col-xs-8">
@@ -107,7 +107,10 @@
                                 <li class="dropdown">
                                     <a class="dropdown-toggle" data-toggle='dropdown' href="#">News & Reviews <span class="fa fa-caret-down"></span></a>
                                     <ul class="dropdown-menu h-nav">
-                                        <li><a href="blog.html">Blog </a></li>
+                                        <li><a href="blog.html">Latest News </a></li>
+                                        <li><a href="blog.html">Articals </a></li>
+                                        <li><a href="blog.html">Expert Review </a></li>
+                                        <li><a href="blog.html">Video </a></li>
                                     </ul>
                                 </li>
                             </ul>

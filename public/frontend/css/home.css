@@ -29,7 +29,7 @@
 
 .b-topBar__addr,
 .b-topBar__tel {
-    padding: 10px 0 10px 0;
+    padding: 5px 0 5px 0;
     font: 600 12px 'Open Sans', sans-serif;
     text-transform: uppercase;
     border-right: 1px solid #eeeeee;
@@ -57,7 +57,7 @@
 .b-topBar__nav li {
     float: right;
     list-style: none;
-    padding: 10px 0;
+    padding: 7px 0;
     font: 300 12px 'Open Sans', sans-serif;
     text-transform: uppercase;
 }
@@ -83,7 +83,7 @@
 }
 
 .b-topBar__lang {
-    padding: 10px 0;
+    padding: 5px 0;
 }
 
 .b-topBar__lang {
@@ -381,7 +381,7 @@ a.m-langLink {
 .b-search__main {
     text-align: center;
     height: 480px;
-    margin-top: -125px;
+    margin-top: -50px;
     padding: 35px 60px 50px 60px;
     z-index: 1000;
     position: relative;
@@ -597,7 +597,7 @@ a.m-langLink {
 
 /* Featured */
 .b-featured {
-    padding: 135px 0 75px 0;
+    padding: 220px 0 75px 0;
     text-align: center;
     position: relative;
     box-shadow: 0px 30px 100px -38px rgba(0, 0, 0, 0.3);
@@ -605,7 +605,7 @@ a.m-langLink {
 }
 
 .b-featured__item {
-    width: 210px;
+    /* width: 210px; */
     margin: 0 auto;
     padding-top: 15px;
 }
@@ -699,15 +699,29 @@ a.m-langLink {
 }
 
 .owl-controls {
-    margin-top: 75px !important;
+    /* margin-top: 75px !important; */
 }
-
+.owl-controls.clickable {
+    position: absolute;
+    width: 100%;
+    top: 45%;
+}
+.b-featured__item {
+    box-shadow: 0px 0px 8px 0px #d1d1d157;
+    padding: 10px;
+    margin: 15px 5px !important;
+}
 .owl-buttons {
     display: inline-block;
-    border: 1px solid #dddddd;
+    /* border: 1px solid #dddddd; */
     padding: 3px;
     border-radius: 25px;
 }
+.owl-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
 
 .owl-buttons > div {
     padding: 5px !important;
@@ -951,7 +965,7 @@ a.m-langLink {
 }
 
 .b-world__item h2 {
-    margin: 0 0 25px 0;
+    margin: 12px 0 10px 0;
     font: 600 16px 'Open Sans', sans-serif;
     padding: 0 0 0 10px;
     text-align: left;
@@ -961,10 +975,10 @@ a.m-langLink {
 .b-world__item p {
     font: 300 13px 'Open Sans', sans-serif;
     text-align: left;
-    padding-top: 35px;
+    padding-top: 16px;
     border-top: 1px solid #B4B4B4;
     position: relative;
-    margin-bottom: 40px;
+    margin-bottom: 16px;
     line-height: 1.7;
 }
 
@@ -1118,8 +1132,14 @@ a.m-langLink {
 
 .b-auto__main {
     overflow: hidden;
+    padding: 17px;
 }
-
+.b-review .owl-controls {
+    margin: 0px 13px;
+}
+.b-review.clientreviwe .owl-controls {
+    margin: 0 20px !important;
+}
 .b-auto__main-toggle {
     font: 600 13px 'Open Sans', sans-serif;
     padding: 0 0 10px 0;
@@ -1560,7 +1580,7 @@ a.m-langLink {
 
 /* Info */
 .b-info {
-    padding: 55px 0 80px 0;
+    padding: 55px 0 20px 0;
 }
 
 .b-info__aside {
@@ -1772,7 +1792,7 @@ a.m-langLink {
 
 /* Footer */
 .b-footer {
-    padding: 40px 0;
+    padding: 10px 0;
 }
 
 .b-footer .b-nav__logo {
