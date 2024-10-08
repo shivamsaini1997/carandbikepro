@@ -63,3 +63,7 @@
 .brand-img a:hover {
     text-decoration: none;
 }
+.py-5{
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
+}

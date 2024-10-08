@@ -67,11 +67,11 @@
                                 <li class="dropdown">
                                     <a class="dropdown-toggle" data-toggle='dropdown' href="home.html">Cars <span class="fa fa-caret-down"></span></a>
                                     <ul class="dropdown-menu h-nav">
-                                        <li><a href="blog.html">New Car </a></li>
-                                        <li><a href="blog.html">Popular Car </a></li>
-                                        <li><a href="blog.html">Upcoming Car </a></li>
-                                        <li><a href="blog.html">Newly Launched Car </a></li>
-                                        <li><a href="blog.html">Electric Car </a></li>
+                                        <li><a href="{{route('newcars')}}">New Cars </a></li>
+                                        <li><a href="blog.html">Popular Cars </a></li>
+                                        <li><a href="blog.html">Upcoming Cars </a></li>
+                                        <li><a href="blog.html">Newly Launched Cars </a></li>
+                                        <li><a href="blog.html">Electric Cars </a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
