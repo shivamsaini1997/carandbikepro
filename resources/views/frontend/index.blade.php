@@ -329,20 +329,7 @@
                                 <p>E.G: NEW, USED, CERTIFIED</p>
                             </div>
                         </div>
-                        <div class="m-secondSelects">
-                            <div class="col-xs-4">
-                                <select name="select4">
-                                    <option value="" selected="">Min Year</option>
-                                </select>
-                                <span class="fa fa-caret-down"></span>
-                            </div>
-                            <div class="col-xs-4">
-                                <select name="select5">
-                                    <option value="" selected="">Max Year</option>
-                                </select>
-                                <span class="fa fa-caret-down"></span>
-                            </div>
-                        </div>
+                        
                     </div>
                     <div class="col-md-4 col-xs-12 text-left s-noPadding">
                         <div class="b-search__main-form-range">
@@ -352,7 +339,6 @@
                             <input type="hidden" name="max" class="j-max" />
                         </div>
                         <div class="b-search__main-form-submit">
-                            <a href="#">Advanced search</a>
                             <button type="submit" class="btn m-btn">Search the Vehicle<span class="fa fa-angle-right"></span></button>
                         </div>
                     </div>
@@ -1294,7 +1280,7 @@
 </section>
 <section class="b-world">
     <div class="container">
-        <h2 class="s-title wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">Latest News</h2>
+        <h2 class="s-title wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">Latest News And Articles</h2>
         <div class="row">
             <div class="col-sm-4 col-xs-12">
                 <div class="b-world__item wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100">
@@ -1325,6 +1311,9 @@
                         sem velde metus imp erdiet lacinia.</p>
                     <a href="article.html" class="btn m-btn">READ MORE<span class="fa fa-angle-right"></span></a>
                 </div>
+            </div>
+            <div>
+                <a href="#" class="btn m-btn btn-primarynew btn mt-5">View All News And Articles</a>
             </div>
         </div>
     </div>
@@ -1391,43 +1380,6 @@
 </section>
 <!--b-count-->
 
-<section class="b-world">
-    <div class="container">
-        <h2 class="s-title wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">Articles</h2>
-        <div class="row">
-            <div class="col-sm-4 col-xs-12">
-                <div class="b-world__item wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100">
-                    <img class="img-responsive" src="frontend/media/370x200/wolks.jpg" alt="wolks" />
-                    
-                    <h2>2016 Volkswagen Golf R SportWagen</h2>
-                    <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
-                        sem velde metus imperdiet lacinia.</p>
-                    <a href="article.html" class="btn m-btn">READ MORE<span class="fa fa-angle-right"></span></a>
-                </div>
-            </div>
-            <div class="col-sm-4 col-xs-12">
-                <div class="b-world__item wow zoomInUp" data-wow-delay="0.3s" data-wow-offset="100">
-                    <img class="img-responsive" src="frontend/media/370x200/mazda.jpg" alt="mazda" />
-                    
-                    <h2>2016 Mazda CX-5 2.5L AWD</h2>
-                    <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
-                        sem velde metus imp erdiet lacinia.</p>
-                    <a href="article.html" class="btn m-btn m-active">READ MORE<span class="fa fa-angle-right"></span></a>
-                </div>
-            </div>
-            <div class="col-sm-4 col-xs-12">
-                <div class="b-world__item j-item wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">
-                    <img class="img-responsive" src="frontend/media/370x200/chevrolet.jpg" alt="chevrolet" />
-                    
-                    <h2>Advantages of Buying New or Used Vehicle</h2>
-                    <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
-                        sem velde metus imp erdiet lacinia.</p>
-                    <a href="article.html" class="btn m-btn">READ MORE<span class="fa fa-angle-right"></span></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 <section class="b-review clientreviwe">
     <div class="container">
@@ -1467,19 +1419,7 @@
 </section>
 <!--b-review-->
 
-<div class="b-features">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-9 col-md-offset-3 col-xs-6 col-xs-offset-6">
-                <ul class="b-features__items">
-                    <li class="wow zoomInUp" data-wow-delay="0.3s" data-wow-offset="100">Low Prices, No Haggling</li>
-                    <li class="wow zoomInUp" data-wow-delay="0.3s" data-wow-offset="100">Largest Car Dealership</li>
-                    <li class="wow zoomInUp" data-wow-delay="0.3s" data-wow-offset="100">Multipoint Safety Check</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
+
 <!--b-features-->
 
 

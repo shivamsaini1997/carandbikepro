@@ -219,10 +219,12 @@ a.m-langLink {
     text-transform: uppercase;
     text-decoration: none;
     display: inline-block;
-    padding: 0 14px 15px 14px;
-    font: 700 13px 'Open Sans', sans-serif;
+    padding: 0 30px 15px 14px;
+    font: 700 14px 'Open Sans', sans-serif;
 }
-
+.dropdown-menu li a {
+    font-size: 12px !important;
+}
 .b-nav__list ul li a:hover {
     border-bottom: 3px solid #f76d2b;
 }
@@ -1756,9 +1758,12 @@ a.m-langLink {
     font-size: 20px;
     margin-right: 15px;
     display: block;
-    float: left
+    float: left;
+    color: #fff;
 }
-
+.b-info__map a{
+    color: #fff !important;
+}
 .b-info__contacts-item span.fa-fax {
     font-size: 16px;
 }

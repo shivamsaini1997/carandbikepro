@@ -22,7 +22,7 @@
     border-color: #228dcb;
     color: #fff !important;
 }
-.b-featured .btn-primarynew {
+.b-featured .btn-primarynew , .b-world .btn-primarynew, .b-auto .btn-primarynew {
     padding: 8px 16px;
     background: #228dcb;
     color: #fff;
@@ -32,7 +32,7 @@
     transition: all 0.5s;
 
 }
-.b-featured .btn-primarynew:hover {
+.b-featured .btn-primarynew:hover,  .b-world .btn-primarynew:hover , .b-auto .btn-primarynew:hover {
     background: transparent;
     border:1px solid #228dcb;
     color: #228dcb;
@@ -57,6 +57,9 @@
     padding: 15px 15px 5px;
     margin-bottom: 28px;
 }
+.mt-5{
+    margin-top: 3rem !important;
+}
 .mb-5{
     margin-bottom: 3rem;
 }
@@ -66,4 +69,19 @@
 .py-5{
     padding-top: 5rem !important;
     padding-bottom: 5rem !important;
+}
+
+.b-info__latest a , .b-info__twitter a,.b-info__contacts em{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+}
+.b-info__latest li , .b-info__twitter li{
+    margin-bottom: 6px;
+}
+
+.b-featured__item img {
+    width: 188px;
+    height: 114px;
+    object-fit: contain;
 }

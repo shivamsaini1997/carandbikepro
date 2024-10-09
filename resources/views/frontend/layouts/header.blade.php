@@ -46,13 +46,13 @@
     <nav class="b-nav">
         <div class="container">
             <div class="row">
-                <div class="col-sm-3 col-xs-4">
+                <div class="col-md-4">
                     <div class="b-nav__logo wow slideInLeft" data-wow-delay="0.3s">
-                        <h3><a href="home.html">CAR<span>Bike</span></a></h3>
-                        <h2><a href="home.html">CAR AND BIKE PRO</a></h2>
+                            <h3><a href="{{url('/')}}">CAR<span>Bike</span></a></h3>
+                            <h2><a href="{{url('/')}}">CAR AND BIKE PRO</a></h2>       
                     </div>
                 </div>
-                <div class="col-sm-9 col-xs-8">
+                <div class="col-md-8">
                     <div class="b-nav__list wow slideInRight" data-wow-delay="0.3s">
                         <div class="navbar-header">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nav">
@@ -68,30 +68,30 @@
                                     <a class="dropdown-toggle" data-toggle='dropdown' href="home.html">Cars <span class="fa fa-caret-down"></span></a>
                                     <ul class="dropdown-menu h-nav">
                                         <li><a href="{{route('newcars')}}">New Cars </a></li>
-                                        <li><a href="blog.html">Popular Cars </a></li>
-                                        <li><a href="blog.html">Upcoming Cars </a></li>
-                                        <li><a href="blog.html">Newly Launched Cars </a></li>
-                                        <li><a href="blog.html">Electric Cars </a></li>
+                                        <li><a href="{{route('popular-cars')}}">Popular Cars </a></li>
+                                        <li><a href="{{route('upcoming-cars')}}">Upcoming Cars </a></li>
+                                        <li><a href="{{route('latest-cars')}}">Newly Launched Cars </a></li>
+                                        <li><a href="{{route('electric-cars')}}">Electric Cars </a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
                                     <a class="dropdown-toggle" data-toggle='dropdown' href="home.html">Bikes <span class="fa fa-caret-down"></span></a>
                                     <ul class="dropdown-menu h-nav">
-                                        <li><a href="blog.html">New Bikes </a></li>
-                                        <li><a href="blog.html">Popular Bikes </a></li>
-                                        <li><a href="blog.html">Upcoming Bikes </a></li>
-                                        <li><a href="blog.html">Newly Launched Bikes </a></li>
-                                        <li><a href="blog.html">Electric Bikes </a></li>
+                                        <li><a href="{{route('newbikes')}}">New Bikes </a></li>
+                                        <li><a href="{{route('popular-bikes')}}">Popular Bikes </a></li>
+                                        <li><a href="{{route('upcoming-bikes')}}">Upcoming Bikes </a></li>
+                                        <li><a href="{{route('latest-bikes')}}">Newly Launched Bikes </a></li>
+                                        <li><a href="{{route('electric-bikes')}}">Electric Bikes </a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
                                     <a class="dropdown-toggle" data-toggle='dropdown' href="home.html">Scooters <span class="fa fa-caret-down"></span></a>
                                     <ul class="dropdown-menu h-nav">
-                                        <li><a href="blog.html">New Scooters </a></li>
-                                        <li><a href="blog.html">Popular Scooters </a></li>
-                                        <li><a href="blog.html">Upcoming Scooters </a></li>
-                                        <li><a href="blog.html">Newly Launched Scooters </a></li>
-                                        <li><a href="blog.html">Electric Scooters </a></li>
+                                        <li><a href="{{route('newScooters')}}">New Scooters </a></li>
+                                        <li><a href="{{route('popular-scooters')}}">Popular Scooters </a></li>
+                                        <li><a href="{{route('upcoming-scooters')}}">Upcoming Scooters </a></li>
+                                        <li><a href="{{route('latest-scooters')}}">Newly Launched Scooters </a></li>
+                                        <li><a href="{{route('electric-scooters')}}">Electric Scooters </a></li>
                                     </ul>
 
                                 </li>
