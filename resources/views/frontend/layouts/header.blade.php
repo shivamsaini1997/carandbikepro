@@ -49,7 +49,7 @@
                 <div class="col-md-4">
                     <div class="b-nav__logo wow slideInLeft" data-wow-delay="0.3s">
                             <h3><a href="{{url('/')}}">CAR<span>Bike</span></a></h3>
-                            <h2><a href="{{url('/')}}">CAR AND BIKE PRO</a></h2>       
+                            <h2><a href="{{url('/')}}">CAR AND BIKE PRO</a></h2>
                     </div>
                 </div>
                 <div class="col-md-8">
@@ -98,19 +98,19 @@
                                 <li class="dropdown">
                                     <a class="dropdown-toggle" data-toggle='dropdown' href="home.html">Electric <span class="fa fa-caret-down"></span></a>
                                     <ul class="dropdown-menu h-nav">
-                                        <li><a href="blog.html">Electric Car </a></li>
-                                        <li><a href="blog.html">Electric bike </a></li>
-                                        <li><a href="blog.html">Electric Scooters </a></li>
+                                        <li><a href="{{route('electric-cars')}}">Electric Car </a></li>
+                                        <li><a href="{{route('electric-bikes')}}">Electric bike </a></li>
+                                        <li><a href="{{route('electric-scooters')}}">Electric Scooters </a></li>
                                   </ul>
                                 </li>
 
                                 <li class="dropdown">
                                     <a class="dropdown-toggle" data-toggle='dropdown' href="#">News & Reviews <span class="fa fa-caret-down"></span></a>
                                     <ul class="dropdown-menu h-nav">
-                                        <li><a href="blog.html">Latest News </a></li>
-                                        <li><a href="blog.html">Articals </a></li>
-                                        <li><a href="blog.html">Expert Review </a></li>
-                                        <li><a href="blog.html">Video </a></li>
+                                        <li><a href="{{route('latest-news')}}">Latest News </a></li>
+                                        <li><a href="{{route('articals')}}">Articals </a></li>
+                                        <li><a href="{{route('expert-review')}}">Expert Review </a></li>
+                                        <li><a href="{{route('videos')}}">Video </a></li>
                                     </ul>
                                 </li>
                             </ul>

@@ -5,11 +5,11 @@
         <div class="carousel-inner">
             <div class="item active">
                 <img src="{{url('frontend/media/main-slider/1.jpg')}}" alt="sliderImg" />
-                
+
             </div>
-           
+
         </div>
-       
+
     </div>
 </section>
 <!--b-slider-->
@@ -394,7 +394,129 @@
         </div>
     </div>
 </section>
+<section class="b-featured pt-5">
+    <div class="container">
+        <h2 class="s-title wow zoomInUp" data-wow-delay="0.3s">Ev News & Updates</h2>
+        <div id="carousel-small" class="owl-carousel enable-owl-carousel" data-items="4" data-navigation="true" data-auto-play="true" data-stop-on-hover="true" data-items-desktop="4" data-items-desktop-small="4" data-items-tablet="3" data-items-tablet-small="2">
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
 
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+
+                    <a href="article.html" class="btn m-btn newcardbtn">Read Full News</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/audi.jpg" alt="audi" />
+                    </a>
+
+                    <div class="clearfix"></div>
+                    <h5><a href="#">AUDI R8 SPYDER V-8</a></h5>
+
+                      <a href="article.html" class="btn m-btn newcardbtn">Read Full News</a>
+                </div>
+
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/aston.jpg" alt="aston" />
+                        <span class="m-leasing">LEASING AVAILABLE</span>
+                    </a>
+
+                    <div class="clearfix"></div>
+                    <h5><a href="#">ASTON MARTIN VANTAGE</a></h5>
+
+                      <a href="article.html" class="btn m-btn newcardbtn">Read Full News</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/jaguar.jpg" alt="jaguar" />
+                    </a>
+
+                    <div class="clearfix"></div>
+                    <h5><a href="#">JAGUAR F-TYPE R</a></h5>
+
+                      <a href="article.html" class="btn m-btn newcardbtn">Read Full News</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+
+                      <a href="article.html" class="btn m-btn newcardbtn">Read Full News</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+
+                      <a href="article.html" class="btn m-btn newcardbtn">Read Full News</a>
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+</section>
+<section class="b-world">
+    <div class="container">
+        <h2 class="s-title wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">Latest Videos</h2>
+        <div class="row">
+            <div class="col-sm-4 col-xs-12">
+                <div class="b-world__item wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100">
+                    <img class="img-responsive" src="frontend/media/370x200/wolks.jpg" alt="wolks">
+
+                    <h2>2016 Volkswagen Golf R SportWagen</h2>
+                    <span><b>22-May-2024 04:34 PM</b></span>
+                </div>
+            </div>
+            <div class="col-sm-4 col-xs-12">
+                <div class="b-world__item wow zoomInUp" data-wow-delay="0.3s" data-wow-offset="100">
+                    <img class="img-responsive" src="frontend/media/370x200/mazda.jpg" alt="mazda">
+
+                    <h2>2016 Mazda CX-5 2.5L AWD</h2>
+                    <span><b>22-May-2024 04:34 PM</b></span>
+
+                </div>
+            </div>
+            <div class="col-sm-4 col-xs-12">
+                <div class="b-world__item j-item wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">
+                    <img class="img-responsive" src="frontend/media/370x200/chevrolet.jpg" alt="chevrolet">
+
+                    <h2>Advantages of Buying New or Used Vehicle</h2>
+                    <span><b>22-May-2024 04:34 PM</b></span>
+
+                </div>
+            </div>
+              <div>
+                <a href="#" class="btn m-btn btn-primarynew btn mt-5">View all videos</a>
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="b-world">
     <div class="container">
@@ -403,7 +525,7 @@
             <div class="col-sm-4 col-xs-12">
                 <div class="b-world__item wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100">
                     <img class="img-responsive" src="frontend/media/370x200/wolks.jpg" alt="wolks">
-          
+
                     <h2>2016 Volkswagen Golf R SportWagen</h2>
                     <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
                         sem velde metus imperdiet lacinia.</p>
@@ -413,7 +535,7 @@
             <div class="col-sm-4 col-xs-12">
                 <div class="b-world__item wow zoomInUp" data-wow-delay="0.3s" data-wow-offset="100">
                     <img class="img-responsive" src="frontend/media/370x200/mazda.jpg" alt="mazda">
-                    
+
                     <h2>2016 Mazda CX-5 2.5L AWD</h2>
                     <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
                         sem velde metus imp erdiet lacinia.</p>
@@ -423,7 +545,7 @@
             <div class="col-sm-4 col-xs-12">
                 <div class="b-world__item j-item wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">
                     <img class="img-responsive" src="frontend/media/370x200/chevrolet.jpg" alt="chevrolet">
-                    
+
                     <h2>Advantages of Buying New or Used Vehicle</h2>
                     <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
                         sem velde metus imp erdiet lacinia.</p>
@@ -473,10 +595,10 @@
                     </div>
                     <div class="clearfix"></div>
                     <h5><a href="#">AUDI R8 SPYDER V-8</a></h5>
-                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>0.00 KM</div>
+                    <div class="b-featured__item-count"><span class="fa fa-tachometer"></span>35,000 KM</div>
                     <div class="b-featured__item-links">
                         <a href="#">Used</a>
-                        <a href="#">2015</a>
+                        <a href="#">2014</a>
                         <a href="#">Manual</a>
                         <a href="#">Orange</a>
                         <a href="#">Petrol</a>
@@ -550,7 +672,7 @@
                       <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
                 </div>
             </div>
-            <div>               
+            <div>
                 <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
                     <a href="#">
                         <img src="frontend/media/186x113/mers.jpg" alt="mers" />
@@ -572,9 +694,9 @@
                       <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
                 </div>
             </div>
-                
+
         </div>
-    
+
 
     </div>
 </section>

@@ -5,7 +5,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2><b>POPULAR BIKERS</b></h2>
+                <h2><b>POPULAR BIKES</b></h2>
             <p>Are you planning on buying a new car? Well, we know that with so many car options available out there, it gets really difficult to find a good car which suits your need. Hence, we have put together a complete list of new cars. Maruti Suzuki, Tata and Toyota are the 3 most popular car brands. These popular car brands cater to a wide spectrum of budgets and needs, offering a variety of cars from fuel-efficient hatchbacks to spacious SUVs. The 5 most popular cars are Nissan Magnite, Mahindra Thar Roxx, Tata Curvv, Tata Nexon and Honda Elevate. Explore the complete list of cars by exploring different brands or by applying multiple filters such as budget, fuel type, body type etc. You can find the car that suits you best from the list of cars below.</p>
             </div>
 
@@ -130,7 +130,7 @@
             </div>
         </div>
         <a href="#" class="btn m-btn btn-primarynew btn mt-5">View All Bike Brands</a>
- 
+
     </div>
 </section>
 <section class="b-featured pt-5">
@@ -391,7 +391,7 @@
             <div class="col-sm-4 col-xs-12">
                 <div class="b-world__item wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100">
                     <img class="img-responsive" src="frontend/media/370x200/wolks.jpg" alt="wolks">
-          
+
                     <h2>2016 Volkswagen Golf R SportWagen</h2>
                     <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
                         sem velde metus imperdiet lacinia.</p>
@@ -401,7 +401,7 @@
             <div class="col-sm-4 col-xs-12">
                 <div class="b-world__item wow zoomInUp" data-wow-delay="0.3s" data-wow-offset="100">
                     <img class="img-responsive" src="frontend/media/370x200/mazda.jpg" alt="mazda">
-                    
+
                     <h2>2016 Mazda CX-5 2.5L AWD</h2>
                     <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
                         sem velde metus imp erdiet lacinia.</p>
@@ -411,7 +411,7 @@
             <div class="col-sm-4 col-xs-12">
                 <div class="b-world__item j-item wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">
                     <img class="img-responsive" src="frontend/media/370x200/chevrolet.jpg" alt="chevrolet">
-                    
+
                     <h2>Advantages of Buying New or Used Vehicle</h2>
                     <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
                         sem velde metus imp erdiet lacinia.</p>
@@ -538,7 +538,7 @@
                       <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
                 </div>
             </div>
-            <div>               
+            <div>
                 <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
                     <a href="#">
                         <img src="frontend/media/186x113/mers.jpg" alt="mers" />
@@ -560,9 +560,9 @@
                       <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
                 </div>
             </div>
-                
+
         </div>
-    
+
 
     </div>
 </section>

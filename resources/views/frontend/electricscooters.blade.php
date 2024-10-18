@@ -5,11 +5,11 @@
         <div class="carousel-inner">
             <div class="item active">
                 <img src="{{url('frontend/media/main-slider/1.jpg')}}" alt="sliderImg" />
-                
+
             </div>
-           
+
         </div>
-       
+
     </div>
 </section>
 <section class="newcar py-5">
@@ -141,7 +141,7 @@
             </div>
         </div>
         <a href="#" class="btn m-btn btn-primarynew btn mt-5">View All Scooters Brands</a>
- 
+
     </div>
 </section>
 <section class="b-featured pt-5">
@@ -394,7 +394,129 @@
     </div>
 </section>
 
+<section class="b-featured pt-5">
+    <div class="container">
+        <h2 class="s-title wow zoomInUp" data-wow-delay="0.3s">Ev News & Updates</h2>
+        <div id="carousel-small" class="owl-carousel enable-owl-carousel" data-items="4" data-navigation="true" data-auto-play="true" data-stop-on-hover="true" data-items-desktop="4" data-items-desktop-small="4" data-items-tablet="3" data-items-tablet-small="2">
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
 
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+
+                    <a href="article.html" class="btn m-btn newcardbtn">Read Full News</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/audi.jpg" alt="audi" />
+                    </a>
+
+                    <div class="clearfix"></div>
+                    <h5><a href="#">AUDI R8 SPYDER V-8</a></h5>
+
+                      <a href="article.html" class="btn m-btn newcardbtn">Read Full News</a>
+                </div>
+
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/aston.jpg" alt="aston" />
+                        <span class="m-leasing">LEASING AVAILABLE</span>
+                    </a>
+
+                    <div class="clearfix"></div>
+                    <h5><a href="#">ASTON MARTIN VANTAGE</a></h5>
+
+                      <a href="article.html" class="btn m-btn newcardbtn">Read Full News</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/jaguar.jpg" alt="jaguar" />
+                    </a>
+
+                    <div class="clearfix"></div>
+                    <h5><a href="#">JAGUAR F-TYPE R</a></h5>
+
+                      <a href="article.html" class="btn m-btn newcardbtn">Read Full News</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+
+                      <a href="article.html" class="btn m-btn newcardbtn">Read Full News</a>
+                </div>
+            </div>
+            <div>
+                <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
+                    <a href="#">
+                        <img src="frontend/media/186x113/mers.jpg" alt="mers" />
+                        <span class="m-premium">Premium</span>
+                    </a>
+
+                    <div class="clearfix"></div>
+                    <h5><a href="#">MERCEDES-AMG GT / GT S</a></h5>
+
+                      <a href="article.html" class="btn m-btn newcardbtn">Read Full News</a>
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+</section>
+<section class="b-world">
+    <div class="container">
+        <h2 class="s-title wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">Latest Videos</h2>
+        <div class="row">
+            <div class="col-sm-4 col-xs-12">
+                <div class="b-world__item wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100">
+                    <img class="img-responsive" src="frontend/media/370x200/wolks.jpg" alt="wolks">
+
+                    <h2>2016 Volkswagen Golf R SportWagen</h2>
+                    <span><b>22-May-2024 04:34 PM</b></span>
+                </div>
+            </div>
+            <div class="col-sm-4 col-xs-12">
+                <div class="b-world__item wow zoomInUp" data-wow-delay="0.3s" data-wow-offset="100">
+                    <img class="img-responsive" src="frontend/media/370x200/mazda.jpg" alt="mazda">
+
+                    <h2>2016 Mazda CX-5 2.5L AWD</h2>
+                    <span><b>22-May-2024 04:34 PM</b></span>
+
+                </div>
+            </div>
+            <div class="col-sm-4 col-xs-12">
+                <div class="b-world__item j-item wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">
+                    <img class="img-responsive" src="frontend/media/370x200/chevrolet.jpg" alt="chevrolet">
+
+                    <h2>Advantages of Buying New or Used Vehicle</h2>
+                    <span><b>22-May-2024 04:34 PM</b></span>
+
+                </div>
+            </div>
+              <div>
+                <a href="#" class="btn m-btn btn-primarynew btn mt-5">View all videos</a>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="b-world">
     <div class="container">
         <h2 class="s-title wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">Latest News and Articles</h2>
@@ -402,7 +524,7 @@
             <div class="col-sm-4 col-xs-12">
                 <div class="b-world__item wow zoomInLeft" data-wow-delay="0.3s" data-wow-offset="100">
                     <img class="img-responsive" src="frontend/media/370x200/wolks.jpg" alt="wolks">
-          
+
                     <h2>2016 Volkswagen Golf R SportWagen</h2>
                     <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
                         sem velde metus imperdiet lacinia.</p>
@@ -412,7 +534,7 @@
             <div class="col-sm-4 col-xs-12">
                 <div class="b-world__item wow zoomInUp" data-wow-delay="0.3s" data-wow-offset="100">
                     <img class="img-responsive" src="frontend/media/370x200/mazda.jpg" alt="mazda">
-                    
+
                     <h2>2016 Mazda CX-5 2.5L AWD</h2>
                     <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
                         sem velde metus imp erdiet lacinia.</p>
@@ -422,7 +544,7 @@
             <div class="col-sm-4 col-xs-12">
                 <div class="b-world__item j-item wow zoomInRight" data-wow-delay="0.3s" data-wow-offset="100">
                     <img class="img-responsive" src="frontend/media/370x200/chevrolet.jpg" alt="chevrolet">
-                    
+
                     <h2>Advantages of Buying New or Used Vehicle</h2>
                     <p>Curabitur libero. Donec facilisis velit eu est. Phasellus cons quat. Aenean vitae quam. Vivamus et nunc. Nunc consequ
                         sem velde metus imp erdiet lacinia.</p>
@@ -549,7 +671,7 @@
                       <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
                 </div>
             </div>
-            <div>               
+            <div>
                 <div class="b-featured__item wow rotateIn" data-wow-delay="0.3s" data-wow-offset="150">
                     <a href="#">
                         <img src="https://www.carbike360.com/_next/image?url=https%3A%2F%2Fd2uqhpl0gyo7mc.cloudfront.net%2Fsmall_Yamaha_Fascino125_carbike360_com_exterior_5_a9d5ab3c34.png&w=1920&q=75" alt="mers" />
@@ -571,9 +693,9 @@
                       <a href="article.html" class="btn m-btn newcardbtn">Get on road price</a>
                 </div>
             </div>
-                
+
         </div>
-    
+
 
     </div>
 </section>
